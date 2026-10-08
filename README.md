@@ -267,41 +267,17 @@ Alongside development, I also work in **Graphic Design, Video Editing and Digita
 
 <p align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=saicharan-017&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=saicharan-017&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=default"
-  />
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=saicharan-017&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
-    alt="GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=saicharan-017&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark"
+    alt="Sai Charan's GitHub Stats"
     width="49%"
   />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-017&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-017&layout=compact&langs_count=8&hide_border=true&theme=default"
-  />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-017&layout=compact&langs_count=8&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-017&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+    alt="Sai Charan's Top Languages"
     width="42%"
   />
-</picture>
 
 </p>
 
