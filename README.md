@@ -15,12 +15,21 @@
 
 <h1 align="center">Hi 👋, I'm Sai Charan</h1>
 
-<p align="center">
+<img
+  align="right"
+  height="170"
+  src="https://i.imgflip.com/65efzo.gif"
+  alt="Coding Animation"
+/>
+
+<p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=850&lines=Data+Science+Student;AI+%26+Python+Developer;Web+Developer;Automation+Enthusiast;Graphic+Designer;Video+Editor;Building+Ideas+Into+Real+Projects+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0E75B6&left=true&vCenter=true&width=700&lines=Data+Science+Student;AI+%26+Python+Developer;Web+Developer;Automation+Enthusiast;Graphic+Designer;Video+Editor;Building+Ideas+Into+Real+Projects+%F0%9F%9A%80"
     alt="Typing Animation"
   />
 </p>
+
+<br clear="both"/>
 
 <p align="center">
   <a href="https://github.com/saicharan-017">
@@ -71,6 +80,19 @@ Alongside development, I also work in **Graphic Design, Video Editing and Digita
 - 💬 Ask me about **AI/ML, Python, Data Science, Web Development, Automation, RAG, APIs, Graphic Design & Video Editing**
 - 🎨 I also enjoy **Graphic Designing, Video Editing & Creative Digital Work**
 - ⚡ Fun fact: **I enjoy turning crazy ideas into working projects. 🚀**
+
+---
+
+<!-- ========================================================= -->
+<!--                  ANIMATED DEVELOPER TEXT                   -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=0E75B6&center=true&vCenter=true&width=750&lines=Code+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Create;AI+%7C+Automation+%7C+Cloud+%7C+Design;Turning+Ideas+Into+Working+Projects+%F0%9F%9A%80"
+    alt="Animated Developer Text"
+  />
+</p>
 
 ---
 
@@ -299,12 +321,10 @@ A modern music-focused web application built using Vue and TypeScript.
 
 <p align="center">
   <a href="https://github.com/saicharan-017?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore All Projects"
-    />
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects" />
   </a>
 </p>
+
 ---
 
 <!-- ========================================================= -->
@@ -320,12 +340,10 @@ A modern music-focused web application built using Vue and TypeScript.
     media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-stats.vercel.app/api?username=saicharan-017&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://github-readme-stats.vercel.app/api?username=saicharan-017&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=default"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api?username=saicharan-017&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
     alt="GitHub Statistics"
@@ -338,12 +356,10 @@ A modern music-focused web application built using Vue and TypeScript.
     media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-017&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-017&layout=compact&langs_count=8&hide_border=true&theme=default"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-017&layout=compact&langs_count=8&hide_border=true"
     alt="Top Languages"
@@ -368,12 +384,10 @@ A modern music-focused web application built using Vue and TypeScript.
     media="(prefers-color-scheme: dark)"
     srcset="https://streak-stats.demolab.com/?user=saicharan-017&theme=github-dark-blue&hide_border=true"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://streak-stats.demolab.com/?user=saicharan-017&theme=default&hide_border=true"
   />
-
   <img
     src="https://streak-stats.demolab.com/?user=saicharan-017&hide_border=true"
     alt="GitHub Contribution Streak"
@@ -386,7 +400,7 @@ A modern music-focused web application built using Vue and TypeScript.
 ---
 
 <!-- ========================================================= -->
-<!--                  CONTRIBUTION ACTIVITY                     -->
+<!--                  CONTRIBUTION ACTIVITY                    -->
 <!-- ========================================================= -->
 
 # 📈 Contribution Activity
@@ -398,12 +412,10 @@ A modern music-focused web application built using Vue and TypeScript.
     media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=saicharan-017&theme=react-dark&hide_border=true&area=true"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=saicharan-017&theme=github-compact&hide_border=true&area=true"
   />
-
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=saicharan-017&theme=github-compact&hide_border=true&area=true"
     alt="GitHub Contribution Activity Graph"
@@ -416,7 +428,7 @@ A modern music-focused web application built using Vue and TypeScript.
 ---
 
 <!-- ========================================================= -->
-<!--                     GITHUB TROPHIES                       -->
+<!--                     GITHUB TROPHIES                        -->
 <!-- ========================================================= -->
 
 # 🏆 GitHub Achievements
@@ -428,12 +440,10 @@ A modern music-focused web application built using Vue and TypeScript.
     media="(prefers-color-scheme: dark)"
     srcset="https://github-profile-trophy.vercel.app/?username=saicharan-017&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://github-profile-trophy.vercel.app/?username=saicharan-017&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
   />
-
   <img
     src="https://github-profile-trophy.vercel.app/?username=saicharan-017&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
     alt="GitHub Trophies"
@@ -544,7 +554,7 @@ A modern music-focused web application built using Vue and TypeScript.
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/c/@sc.lyrics_">
+<a href="https://www.youtube.com/@sc.lyrics_">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
@@ -571,7 +581,7 @@ A modern music-focused web application built using Vue and TypeScript.
 ---
 
 <!-- ========================================================= -->
-<!--                       FUN SECTION                          -->
+<!--                     FUN SECTION                            -->
 <!-- ========================================================= -->
 
 # 💡 A Little More About Me
@@ -617,19 +627,15 @@ A modern music-focused web application built using Vue and TypeScript.
 ---
 
 <p align="center">
-
 <i>“Build. Learn. Experiment. Repeat.”</i>
-
 </p>
 
 <p align="center">
-
 <a href="https://github.com/saicharan-017">
   <img
     src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
   />
 </a>
-
 </p>
 
 <!-- ========================================================= -->
