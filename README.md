@@ -308,6 +308,48 @@ A modern music-focused web application built using Vue and TypeScript.
 ---
 
 <!-- ========================================================= -->
+<!--                   CURRENTLY BUILDING                       -->
+<!-- ========================================================= -->
+
+# 🚧 Currently Building
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+### 📚 RAG Implementation
+
+Building and experimenting with practical **Retrieval-Augmented Generation (RAG)** pipelines for document ingestion, chunking, embeddings, retrieval and LLM-based response generation.
+
+**Focus**
+
+`RAG` `Embeddings` `Vector Search` `Retrieval` `LLMs`
+
+**Status:** 🟡 Active Development
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Agents
+
+Developing intelligent AI agents capable of planning tasks, selecting tools, using context and carrying out multi-step workflows.
+
+**Focus**
+
+`AI Agents` `LLMs` `Tool Calling` `Automation` `RAG`
+
+**Status:** 🟡 In Progress
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
 <!--                    GITHUB ANALYTICS                       -->
 <!-- ========================================================= -->
 
