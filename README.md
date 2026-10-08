@@ -215,48 +215,96 @@ Alongside development, I also work in **Graphic Design, Video Editing and Digita
 
 # 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🤖 Automated Resume-Based Job Application System
+
+AI-powered job application system that analyzes resumes, matches suitable jobs, and automates the application process.
+
+**Tech Stack**
+
+`Python` `Flask` `Selenium` `Gemini API`
+
+<p>
 <a href="https://github.com/saicharan-017/Automated-Resume-Based-Job-Application-System">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=saicharan-017&repo=Automated-Resume-Based-Job-Application-System&theme=transparent&hide_border=true"
-    width="48%"
-  />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</p>
 
+</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ Boltz.new Windows Assistant
+
+AI-powered Windows assistant focused on desktop automation, OCR, system control and intelligent interaction.
+
+**Tech Stack**
+
+`Python` `OCR` `OpenCV` `Automation`
+
+<p>
 <a href="https://github.com/saicharan-017/Boltz.new-Windows_Assistant">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=saicharan-017&repo=Boltz.new-Windows_Assistant&theme=transparent&hide_border=true"
-    width="48%"
-  />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </p>
 
-<p align="center">
+</td>
+</tr>
+</table>
 
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ DevOps Workshop
+
+A hands-on DevOps project exploring development, deployment, cloud and DevOps concepts.
+
+**Tech Stack**
+
+`DevOps` `Git` `GitHub` `Cloud`
+
+<p>
 <a href="https://github.com/saicharan-017/DevOps-Workshop">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=saicharan-017&repo=DevOps-Workshop&theme=transparent&hide_border=true"
-    width="48%"
-  />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://github.com/saicharan-017/neon-listen-vue">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=saicharan-017&repo=neon-listen-vue&theme=transparent&hide_border=true"
-    width="48%"
-  />
-</a>
-
 </p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎵 Neon Listen Vue
+
+A modern music-focused web application built using Vue and TypeScript.
+
+**Tech Stack**
+
+`Vue` `TypeScript` `JavaScript`
+
+<p>
+<a href="https://github.com/saicharan-017/neon-listen-vue">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/saicharan-017?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore All Projects"
+    />
   </a>
 </p>
-
 ---
 
 <!-- ========================================================= -->
@@ -267,17 +315,41 @@ Alongside development, I also work in **Graphic Design, Video Editing and Digita
 
 <p align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=saicharan-017&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark"
-    alt="Sai Charan's GitHub Stats"
-    width="49%"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=saicharan-017&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=saicharan-017&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=default"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-017&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-    alt="Sai Charan's Top Languages"
+    src="https://github-readme-stats.vercel.app/api?username=saicharan-017&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
+    alt="GitHub Statistics"
+    width="49%"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-017&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-017&layout=compact&langs_count=8&hide_border=true&theme=default"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-017&layout=compact&langs_count=8&hide_border=true"
+    alt="Top Languages"
     width="42%"
   />
+</picture>
 
 </p>
 
